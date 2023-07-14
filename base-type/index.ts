@@ -29,3 +29,4 @@ voidFn()
 // Null和undefined类型
 let u: undefined = undefined;
 let n: null = null;
+
