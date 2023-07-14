@@ -8,3 +8,5 @@ npm i @types/node -D
 ```
 ## 练习目录
 1. base-type.ts：基础类型
+2. interface.ts：接口
+3. function.ts：函数
