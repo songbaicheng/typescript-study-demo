@@ -61,3 +61,13 @@ let arrayList: any[] = [1, false, 'fine'];
 arrayList[1] = 100;
 console.log(arrayList)
 
+// Object
+let o:Object = 123
+let o1:Object = '123'
+let o2:Object = []
+let o3:Object = {}
+let o4:Object = () => 123
+
+let o5: object = {}
+
+let nu: {} = {}
